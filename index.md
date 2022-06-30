@@ -1,9 +1,3 @@
 ## Sky Space Moon
 
 **HELLO WORLD**
-
-### SKY SPACE MOON
-
-## SKY SPACE MOON
-
-# SKY SPACE MOON
